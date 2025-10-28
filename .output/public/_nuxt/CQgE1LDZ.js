@@ -1,0 +1,1 @@
+import n from"./CXJoCA8q.js";import{_ as e,j as _,o as c}from"#entry";const r={__name:"ButtonOutlineWBLabelButton",props:{width:{type:String,default:"w-full"}},setup(t){return(p,s)=>{const o=n;return c(),_(o,{variant:"outlined",pt:{root:`${t.width}`,icon:{style:{"font-size":"0.85rem"}}}},null,8,["pt"])}}},u=e(r,[["__scopeId","data-v-1bd71fc3"]]);export{u as _};
